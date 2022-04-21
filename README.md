@@ -1,4 +1,4 @@
-<h1>Terraform examples with ACI/MSO/NDO and other technologies.</h1>
+<h1>Terraform examples with ACI/MSO/NDO</h1>
 
 Repositories here are for various Terraform plans that I have used with ACI & MSO.
 
